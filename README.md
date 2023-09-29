@@ -1,4 +1,4 @@
-# Pet-Center
+# Pet-Center Hackathon Project
 MCLP 모델링을 활용한 반려동물 교육보호센터 및 놀이터 최적입지 선정
 
 ## Team
