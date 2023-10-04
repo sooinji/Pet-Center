@@ -7,4 +7,4 @@ MCLP 모델링을 활용한 반려동물 교육보호센터 및 놀이터 최적
 | [지수인](https://github.com/sooinji) | 팀장 |
 | [이소흔](https://github.com/dyoluv12) | 팀원 |
 | [이유희](https://github.com/yoooohee) | 팀원 |
-| 박현주 | 팀원 |
+| [박현주](https://github.com/Zoe305) | 팀원 |
