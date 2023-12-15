@@ -33,17 +33,24 @@ MCLP 모델링을 활용한 반려동물 교육보호센터 및 놀이터 최적
 
 ## 입지 지수
 * 수요 지수
+  ![006](https://github.com/sooinji/Pet-Center/assets/121311428/b3b59079-e313-4b95-9759-47261b278cad)
 * 인프라 지수
+  ![007](https://github.com/sooinji/Pet-Center/assets/121311428/c182df20-fbb6-4c53-b5a8-4e744423e762)
 * 접근성 지수
+  ![008](https://github.com/sooinji/Pet-Center/assets/121311428/5229cfff-22af-406d-a158-b0e920831882)
 
 
 ## 최종 입지
 * 반려동물 놀이터 3곳 선정
+  ![012](https://github.com/sooinji/Pet-Center/assets/121311428/202d3536-790a-40d1-b549-8db1997d568f)
+  ![013](https://github.com/sooinji/Pet-Center/assets/121311428/4573f46e-1e97-4f1f-ab03-3a03d4adbd78)
+  ![014](https://github.com/sooinji/Pet-Center/assets/121311428/6e90bf13-b064-48ad-b3fb-a79b9daa7808)
   
 * 반려동물 교육보호센터 3곳 선정
+  ![015](https://github.com/sooinji/Pet-Center/assets/121311428/49977056-4575-47d4-b7bc-af4d698a6191)
+  ![016](https://github.com/sooinji/Pet-Center/assets/121311428/8bdb077c-afee-49ea-8bd8-74c1c2ab8ffd)
+  ![017](https://github.com/sooinji/Pet-Center/assets/121311428/3ed3037f-ac3f-407c-a97a-b4780f7b4541)
   
-
-
 ## 프로젝트 발표자료
 
 
